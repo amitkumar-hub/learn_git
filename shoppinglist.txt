@@ -3,3 +3,5 @@ potato
 cabbage
 garlic
 chilli
+capsicum
+
