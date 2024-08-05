@@ -2,3 +2,5 @@ tomato
 potato
 onion
 cabbage
+garlic
+chilli
