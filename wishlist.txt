@@ -2,3 +2,7 @@ ggg
 key caps
 mouse
 headset
+mac
+pen
+notes
+
