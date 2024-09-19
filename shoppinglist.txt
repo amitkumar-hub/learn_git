@@ -1,8 +1,8 @@
 Edit for merge conflict
 potato
 cabbage
-garlic
+garli
 Added one space
-chilli
+chili
 capsicum
-brocolli
+brocoli
