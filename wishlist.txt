@@ -4,5 +4,6 @@ mouse
 headset
 mac
 pen
+paper
 notes
 nothing to add but still doing lol
