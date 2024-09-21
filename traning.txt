@@ -1,0 +1,3 @@
+self trying
+to learn
+git overall
