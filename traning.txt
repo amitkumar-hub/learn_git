@@ -4,6 +4,5 @@ git overall
 learn cherry-pick
 doing something
 done this
-hlo
-hii
-bye
+trying stash
+some changes
