@@ -2,4 +2,4 @@ self trying
 to learn
 git overall
 learn cherry-pick
-done all this
+this is done
